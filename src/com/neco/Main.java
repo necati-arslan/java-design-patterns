@@ -5,8 +5,17 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        RegularOrders obj1 = new Meals();
-        obj1.printOrder();
+        Combos combos = new FamilyCombo();;
+
+
+        System.out.println(combos.regularOrders);
+
+
+       // Combos combos1 = ComboCreator.createComobos(ComboCode.FAMILY);
+        //combos1.printOrder();
+
+        //Combos combos2 = ComboCreator.createComobos(ComboCode.MEGA);
+        //combos2.printOrder();
 
 
 

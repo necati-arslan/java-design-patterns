@@ -31,3 +31,27 @@ public abstract class RegularOrders {
     }
 
 }
+
+class Salads extends RegularOrders {
+
+    public String name = "Salads";
+    public int price = 50;
+
+    @Override
+    public void printOrder() {
+        System.out.printf("%-15s %10s %n", name, price);
+    }
+
+}
+
+class Desserts extends RegularOrders {
+
+    public String name = "Desserts";
+    public int price = 150;
+
+    @Override
+    public void printOrder() {
+        System.out.printf("%-15s %10s %n", name, price);
+    }
+
+}
