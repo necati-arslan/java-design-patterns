@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5431b15d-4316-42d5-9b2f-eeb9f977d6d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/neco/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neco/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java design pattern/com/neco/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java design pattern/com/neco/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/neco/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neco/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +16,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
